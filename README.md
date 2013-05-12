@@ -1,4 +1,2 @@
-curl-parallel
-=============
-
-Do curl on many urls really fast
+› ./curl-parallel.pl
+Can't locate LWP/Parallel/UserAgent.pm in @INC (@INC contains: /Library/Perl/5.12/darwin-thread-multi-2level /Library/Perl/5.12 /Network/Library/Perl/5.12/darwin-thread-multi-2level /Network/Library/Perl/5.12 /Library/Perl/Updates/5.12.3 /System/Library/Perl/5.12/darwin-thread-multi-2level /System/Library/Perl/5.12 /System/Library/Perl/Extras/5.12/darwin-thread-multi-2level /System/Library/Perl/Extras/5.12 .) at ./curl-parallel.pl line 11.
